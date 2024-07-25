@@ -22,7 +22,7 @@ class Quest extends PluginBase
 
     public function onEnable(): void
     {
-        $this->getServer()->getPluginManager()->registerEvents(new QuestListener(),$this);
+        $this->getServer()->getPluginManager()->registerEvents(new QuestListener(), $this);
 
         $this->getServer()->getCommandMap()->register("quest", new QuestCommand());
 
