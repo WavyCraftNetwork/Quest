@@ -1,0 +1,9 @@
+name: Quest
+main: Quest\Quest
+api: 5.0.0
+version: 1.0.0
+author: Demon XYZ
+
+permissions:
+  quest.cmd:
+    default: true

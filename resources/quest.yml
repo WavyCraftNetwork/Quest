@@ -1,0 +1,200 @@
+quests:
+  Break 5 Oak logs:
+    progress: 5
+    item:
+      id: oak_log
+      amount: 5
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 50"
+
+  Break 15 Cobblestone:
+    progress: 15
+    item:
+      id: cobblestone
+      amount: 15
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 150"
+
+  Break 15 Oak Logs:
+    progress: 15
+    item:
+      id: oak_lag
+      amount: 15
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 150"
+
+  Break 35 Cobblestone:
+    progress: 35
+    item:
+      id: cobblestone
+      amount: 35
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 200"
+
+  Break 10 Coal Ores:
+    progress: 10
+    item:
+      id: coal_ore
+      amount: 10
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 250"
+
+  Break 40 Coal Ores:
+    progress: 40
+    item:
+      id: coal_ore
+      amount: 40
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 430"
+
+  Break 20 Spruce Logs:
+    progress: 20
+    item:
+      id: spruce_log
+      amount: 20
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 500"
+
+  Break 30 Birch Logs:
+    progress: 30
+    item:
+      id: birch_log
+      amount: 30
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 670"
+
+  Break 60 Coal Ores:
+    progress: 60
+    item:
+      id: coal_ore
+      amount: 60
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 800"
+
+  Break 20 Iron Ores:
+    progress: 20
+    item:
+      id: iron_ore
+      amount: 20
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 930"
+
+  Break 50 Iron Ores:
+    progress: 50
+    item:
+      id: iron_ore
+      amount: 50
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 1450"
+
+  Place 10 Dirt:
+    progress: 10
+    item:
+      id: dirt
+      amount: 10
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 110"
+
+  Place 25 Dirt:
+    progress: 25
+    item:
+      id: dirt
+      amount: 25
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 300"
+
+  Place 60 Cobblestone:
+    progress: 60
+    item:
+      id: cobbstone
+      amount: 60
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 830"
+
+  Place 60 Dirt:
+    progress: 60
+    item:
+      id: dirt
+      amount: 60
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 1050"
+
+  Craft a Workbench:
+    progress: 1
+    item:
+      id: crafting_table
+      amount: 1
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 50"
+
+  Craft a Wooden Pickaxe:
+    progress: 1
+    item:
+      id: wooden_pickaxe
+      amount: 1
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 60"
+
+  Craft a Stone Pickaxe:
+    progress: 1
+    item:
+      id: stone_pickaxe
+      amount: 1
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 70"
+
+  Craft a Furnace:
+    progress: 1
+    item:
+      id: furnace
+      amount: 1
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 100"
+
+  Craft an Iron Pickaxe:
+    progress: 1
+    item:
+      id: iron_pickaxe
+      amount: 1
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "addmoney {name} 400"
