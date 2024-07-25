@@ -28,7 +28,6 @@ class QuestInfoForm extends MenuForm
                 "       ",
                 "§fItem: ",
                 "  §fId: §a" . Quest::getInstance()->getQuest()->get("quests")[$questInformation["quest"]]["item"]["id"],
-                "  §fMeta: §a" . Quest::getInstance()->getQuest()->get("quests")[$questInformation["quest"]]["item"]["meta"],
                 "§6====================="
             ];
         }else{
